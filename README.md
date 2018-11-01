@@ -12,8 +12,7 @@ For more information, see the [forum topic](https://forum.minetest.net/viewtopic
 
 ## Original Font
 
-**Original font**: Botic by Pixeldroid
+**Original font**: [Botic by Pixeldroid](https://github.com/pixeldroid/fonts)
 
 **License**: SIL OPEN FONT LICENSE Version 1.1
 
-[Browse GitHub repository](https://github.com/pixeldroid/fonts)
