@@ -1,4 +1,4 @@
-# Font Botic for Minetest Font API mod
+# Botic font minetest mod for font API
 
 This mod adds Botic font to Font API mod (from [display_modpack](https://github.com/pyrollo/display_modpack)).
 
